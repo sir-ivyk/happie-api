@@ -1,0 +1,14 @@
+/home/ivyk/projects/happie/happie-api/bin/Debug/netcoreapp2.2/happie-api.deps.json
+/home/ivyk/projects/happie/happie-api/bin/Debug/netcoreapp2.2/happie-api.runtimeconfig.json
+/home/ivyk/projects/happie/happie-api/bin/Debug/netcoreapp2.2/happie-api.runtimeconfig.dev.json
+/home/ivyk/projects/happie/happie-api/bin/Debug/netcoreapp2.2/happie-api.dll
+/home/ivyk/projects/happie/happie-api/bin/Debug/netcoreapp2.2/happie-api.pdb
+/home/ivyk/projects/happie/happie-api/obj/Debug/netcoreapp2.2/happie-api.csprojAssemblyReference.cache
+/home/ivyk/projects/happie/happie-api/obj/Debug/netcoreapp2.2/happie-api.csproj.CoreCompileInputs.cache
+/home/ivyk/projects/happie/happie-api/obj/Debug/netcoreapp2.2/happie-api.RazorAssemblyInfo.cache
+/home/ivyk/projects/happie/happie-api/obj/Debug/netcoreapp2.2/happie-api.RazorAssemblyInfo.cs
+/home/ivyk/projects/happie/happie-api/obj/Debug/netcoreapp2.2/happie-api.AssemblyInfoInputs.cache
+/home/ivyk/projects/happie/happie-api/obj/Debug/netcoreapp2.2/happie-api.AssemblyInfo.cs
+/home/ivyk/projects/happie/happie-api/obj/Debug/netcoreapp2.2/happie-api.RazorTargetAssemblyInfo.cache
+/home/ivyk/projects/happie/happie-api/obj/Debug/netcoreapp2.2/happie-api.dll
+/home/ivyk/projects/happie/happie-api/obj/Debug/netcoreapp2.2/happie-api.pdb
