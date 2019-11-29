@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ivyk/projects/happie/happie-api/happie-api/happie-api.csproj": {}
+    "/home/ivyk/projects/happie/happie-api/happie-api.csproj": {}
   },
   "projects": {
-    "/home/ivyk/projects/happie/happie-api/happie-api/happie-api.csproj": {
+    "/home/ivyk/projects/happie/happie-api/happie-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ivyk/projects/happie/happie-api/happie-api/happie-api.csproj",
+        "projectUniqueName": "/home/ivyk/projects/happie/happie-api/happie-api.csproj",
         "projectName": "happie-api",
-        "projectPath": "/home/ivyk/projects/happie/happie-api/happie-api/happie-api.csproj",
+        "projectPath": "/home/ivyk/projects/happie/happie-api/happie-api.csproj",
         "packagesPath": "/home/ivyk/.nuget/packages/",
-        "outputPath": "/home/ivyk/projects/happie/happie-api/happie-api/obj/",
+        "outputPath": "/home/ivyk/projects/happie/happie-api/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -49,6 +49,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "(, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
